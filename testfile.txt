@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Initial line is here
 hello annie what is your problem
+=======
+Initial line
+edited by nannu
+>>>>>>> 9f116c3ed6f2565d86e1081196a573859e6ced3d
